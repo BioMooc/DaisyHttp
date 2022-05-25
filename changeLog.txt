@@ -4,6 +4,7 @@ v0.3 $ python3 f3.py 8005  ## sopport port from cmd;
 v0.4 $ python3 f4.py 8005 /home/wangjl/data/web/docs ## setting rootPath from cmd;
 v0.5 $ python3 DaisyHttp.py 8005 /home/wangjl/data/web/doc  ## good help page on home page
 v0.6 update ReadMe
+v0.6.2 mv history version to /history/
 ==> commit
 ==========>> push git@eve:BioMooc/DaisyHttp.git
 
@@ -13,8 +14,8 @@ v0.6 update ReadMe
 
 -----
 Where:
-/home/wangjl/data/project/DaisyHttp/
-https://github.com/BioMooc/DaisyHttp
+Yi station: /home/wangjl/data/project/DaisyHttp/
+github: https://github.com/BioMooc/DaisyHttp
 
 -----
 git init

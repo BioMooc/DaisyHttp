@@ -12,6 +12,8 @@
 ```
 $ python3 DaisyHttp.py 8001 /home/wangjl/
 Perhaps, you also need to open the port using `iptables`.
+And use `ifconfig` to get your IP address.
+
 
 Get help
 $ python3 DaisyHttp.py -h
