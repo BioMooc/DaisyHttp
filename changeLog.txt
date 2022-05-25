@@ -2,6 +2,6 @@ v0.1 $ python3 f1.py  #basic flask server, port=8001
 v0.2 $ python3 f2.py  #can Support Range and CORS now; /list/ return files and directories in json;
 v0.3 $ python3 f3.py 8005  ## sopport port from cmd;
 v0.4 $ python3 f4.py 8005 /home/wangjl/data/web/docs ## setting rootPath from cmd;
-
+v0.5 $ python3 DaisyHttp.py 8005 /home/wangjl/data/web/doc  ## good help page on home page
 
 
