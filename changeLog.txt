@@ -1,2 +1,2 @@
-#v0.1 $ python3 f1.py  #basic flask server, port=8001
-
+v0.1 $ python3 f1.py  #basic flask server, port=8001
+v0.2 $ python3 f2.py  #can Support Range and CORS now; /list/ return files and directories in json;
