@@ -3,5 +3,26 @@ v0.2 $ python3 f2.py  #can Support Range and CORS now; /list/ return files and d
 v0.3 $ python3 f3.py 8005  ## sopport port from cmd;
 v0.4 $ python3 f4.py 8005 /home/wangjl/data/web/docs ## setting rootPath from cmd;
 v0.5 $ python3 DaisyHttp.py 8005 /home/wangjl/data/web/doc  ## good help page on home page
+v0.6 update ReadMe
+==> commit
+==========>> push git@eve:BioMooc/DaisyHttp.git
 
 
+
+
+
+-----
+Where:
+/home/wangjl/data/project/DaisyHttp/
+https://github.com/BioMooc/DaisyHttp
+
+-----
+git init
+git config user.name "jimmy"
+git config user.email  "JimmyMall@live.com"
+
+## git remote add origin git@github.com:BioMooc/DaisyHttp.git
+##git remote set-url origin git@eve:BioMooc/DaisyHttp.git
+$ git remote add origin git@eve:BioMooc/DaisyHttp.git
+$ git push -u origin master
+-----
